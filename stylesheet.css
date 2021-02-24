@@ -1,0 +1,70 @@
+h1{
+    font-style: italic;
+    font-size: 70px;
+    margin-left: 470px;
+}
+h2{
+    font-style: italic;
+    font-size: 50px;
+    margin-left: 550px;
+    margin-bottom: 200px;
+}
+h3{
+    font-style: italic;
+    font-size: 100px;
+    margin-left: 100px;
+}
+h4{
+    font-style: italic;
+    font-size: 20px;
+    margin-left: 500px; 
+}
+h6{
+    margin-left: 450px;
+}
+.navbar-brand{
+    margin-left: 100px;
+    margin-right: 100px;
+} 
+.d-flex{
+    width: 300px;
+} 
+p{
+    font-size: x-large;
+    margin-left: 70px; 
+    margin-right: 50px;
+    color: rgb(90, 90, 90);
+}
+.collections{
+    padding-top: 50px;
+    padding-left: 30px;
+    margin-bottom: 100px;
+    background-color: black;
+    color: white;
+}
+.img-fluid{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.colm{
+    padding-top: 130px;
+}
+.qtab{
+    padding: 35px 20px 20px 20px;
+    margin-left: 70px;
+    margin-right: 650px;
+    background-color: black;
+}
+.OR{
+    color: white;
+    margin-left: 300px;
+}
+.termscond{
+    color: white;
+    padding-left: 20px;
+}
+.end{
+    padding-top: 70px;
+    background-color:rgb(37, 3, 3);
+    color: white;
+}
